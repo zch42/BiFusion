@@ -18,11 +18,11 @@ Contains the code for dataloader.
 #### 'layer' directory
 Contains the code for  model components.
 #### 'model' directory
-Contains the code for training and testing BiFusion model
+Contains the code for BiFusion model
 
 Run the code as following:
 
-    $ python BiFusion.py
+    $ python main.py
     
 
 ### Requirements
