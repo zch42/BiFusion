@@ -28,8 +28,13 @@ Run the code as following:
 ### Requirements
 
 BiFusion is tested to work under Python 3.6. 
-The required dependencies are PyTorch, numpy, scikit-learn and PyTorch-Geometric.
-
+The required dependencies are:  
+```
+PyTorch==1.2.0  
+PyTorch-Geometric==1.4.1  
+numpy==1.16.0  
+scikit-learn==0.21.3
+```
 
 ### Citing
 
